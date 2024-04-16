@@ -1,0 +1,1215 @@
+%PDF-1.4
+%‚„œ”
+
+1 0 obj
+   << 
+      /Title ()
+      /Author ()
+      /Subject ()
+      /Keywords ()
+      /Creator (FreeHEP Graphics2D Driver)
+      /Producer (com.horstmann.violet.framework.util.PDFGraphics2DStringWriter Revision)
+      /CreationDate (D:20240302031234-08'00')
+      /ModDate (D:20240302031234-08'00')
+      /Trapped /False
+   >>
+endobj
+
+2 0 obj
+   << 
+      /Type /Catalog
+      /Pages 3 0 R
+      /Outlines 4 0 R
+      /PageMode /UseOutlines
+      /ViewerPreferences 5 0 R
+      /OpenAction [6 0 R /Fit]
+   >>
+endobj
+
+5 0 obj
+   << 
+      /FitWindow true
+      /CenterWindow false
+   >>
+endobj
+
+6 0 obj
+   << 
+      /Parent 3 0 R
+      /Type /Page
+      /Contents 7 0 R
+   >>
+endobj
+
+7 0 obj
+   << 
+      /Length 8 0 R
+   >>
+stream
+.95294 0.0000 0.0000 -.95294 27.059 830.00 cm
+q
+0.0000 0.0000 m
+1150.0 0.0000 l
+1150.0 850.00 l
+0.0000 850.00 l
+h
+W
+n
+q
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+Q
+q
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+0.0000 0.0000 m
+0.0000 850.00 l
+1150.0 850.00 l
+1150.0 0.0000 l
+h
+W
+n
+1.0000 0.0000 0.0000 1.0000 -10.000 -0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+10.000 0.0000 m
+1161.0 0.0000 l
+1161.0 851.00 l
+10.000 851.00 l
+10.000 0.0000 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 .98431 .80392 rg
+1.0000 .98431 .80392 RG
+140.00 100.00 m
+300.00 100.00 l
+300.00 200.00 l
+140.00 200.00 l
+140.00 100.00 l
+h
+f
+/Alpha1 gs
+1.0000 .87059 .60392 rg
+1.0000 .87059 .60392 RG
+140.00 100.00 m
+300.00 100.00 l
+300.00 200.00 l
+140.00 200.00 l
+140.00 100.00 l
+h
+S
+140.50 140.50 m
+300.50 140.50 l
+S
+140.50 160.50 m
+300.50 160.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 140.00 100.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 73.000 24.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Main) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -140.00 -100.00 cm
+1.0000 0.0000 0.0000 1.0000 140.00 140.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 14.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -140.00 -140.00 cm
+1.0000 0.0000 0.0000 1.0000 140.00 160.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 24.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+main\(String[] args\): void) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -140.00 -160.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+.76471 .89020 .74902 rg
+.76471 .89020 .74902 RG
+10.000 270.00 m
+530.00 270.00 l
+530.00 430.00 l
+10.000 430.00 l
+10.000 270.00 l
+h
+f
+/Alpha1 gs
+.56863 .79608 .54118 rg
+.56863 .79608 .54118 RG
+10.000 270.00 m
+530.00 270.00 l
+530.00 430.00 l
+10.000 430.00 l
+10.000 270.00 l
+h
+S
+10.500 310.50 m
+530.50 310.50 l
+S
+10.500 330.50 m
+530.50 330.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 10.000 270.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 248.00 24.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(TextUI) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -10.000 -270.00 cm
+1.0000 0.0000 0.0000 1.0000 10.000 310.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 14.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -10.000 -310.00 cm
+1.0000 0.0000 0.0000 1.0000 10.000 330.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 24.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ printBoard\(BoardManager boardManager, GameManager gameManager\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 39.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ printFinalBoard\(BoardManager boardManager, GameManager gameManager\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 54.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ printCheatBoard\(BoardManager boardManager, GameManager gameManager\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 69.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ showOpponentsPoints\(GameManager gameManager\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 84.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ start\(int forts, boolean isCheat\): int) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -10.000 -330.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+.71373 .90588 .98039 rg
+.71373 .90588 .98039 RG
+390.00 520.00 m
+770.00 520.00 l
+770.00 840.00 l
+390.00 840.00 l
+390.00 520.00 l
+h
+f
+/Alpha1 gs
+.43137 .81176 .96471 rg
+.43137 .81176 .96471 RG
+390.00 520.00 m
+770.00 520.00 l
+770.00 840.00 l
+390.00 840.00 l
+390.00 520.00 l
+h
+S
+390.50 560.50 m
+770.50 560.50 l
+S
+390.50 620.50 m
+770.50 620.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 390.00 520.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 154.00 24.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(GameManager) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -390.00 -520.00 cm
+1.0000 0.0000 0.0000 1.0000 390.00 560.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 27.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-ArrayList<Fort> fortList) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 42.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-ArrayList<Cell> cellUsedInForts) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -390.00 -560.00 cm
+1.0000 0.0000 0.0000 1.0000 390.00 620.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 24.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ getFortList\(\): ArrayList<Fort>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 39.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ getCellUsedInForts\(\): ArrayList<Cell>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 54.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ setFortList\(ArrayList<Fort> fortList\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 69.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ addFort\(Fort newFort\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 84.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ isCellUsedInFort\(String position\): char) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 99.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ isValidIndex\(int i, int j\): boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 114.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ exploreCells\(int count, Cell startCell, char fortName\): boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 129.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ randomFortGenerator\(char fortName\): boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 144.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ fortListCreation\(int number\): boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 159.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ calculatePointsForFortList\(\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 174.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ getTotalPoints\(\): int) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 189.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ hasPlayerWon\(\): boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 204.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ hasPlayerLost\(\): boolean) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -390.00 -620.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+.71373 .90588 .98039 rg
+.71373 .90588 .98039 RG
+750.00 150.00 m
+1090.0 150.00 l
+1090.0 310.00 l
+750.00 310.00 l
+750.00 150.00 l
+h
+f
+/Alpha1 gs
+.43137 .81176 .96471 rg
+.43137 .81176 .96471 RG
+750.00 150.00 m
+1090.0 150.00 l
+1090.0 310.00 l
+750.00 310.00 l
+750.00 150.00 l
+h
+S
+750.50 190.50 m
+1090.5 190.50 l
+S
+750.50 230.50 m
+1090.5 230.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 750.00 150.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 133.00 24.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(BoardManager) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -750.00 -150.00 cm
+1.0000 0.0000 0.0000 1.0000 750.00 190.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 24.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-ArrayList<ArrayList<Cell>> board;) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -750.00 -190.00 cm
+1.0000 0.0000 0.0000 1.0000 750.00 230.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 29.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getBoard\(\): ArrayList<ArrayList<Cell>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 44.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+boardCreation\(GameManager gameManager\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 59.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+isHit\(String userInput,GameManager gameManager\): int) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -750.00 -230.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+.71373 .90588 .98039 rg
+.71373 .90588 .98039 RG
+860.00 510.00 m
+1160.0 510.00 l
+1160.0 850.00 l
+860.00 850.00 l
+860.00 510.00 l
+h
+f
+/Alpha1 gs
+.43137 .81176 .96471 rg
+.43137 .81176 .96471 RG
+860.00 510.00 m
+1160.0 510.00 l
+1160.0 850.00 l
+860.00 850.00 l
+860.00 510.00 l
+h
+S
+860.50 550.50 m
+1160.5 550.50 l
+S
+860.50 650.50 m
+1160.5 650.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 860.00 510.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 145.00 24.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Fort) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -860.00 -510.00 cm
+1.0000 0.0000 0.0000 1.0000 860.00 550.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 24.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-char name;) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 39.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-boolean isDestroyed;) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 54.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-int undamagedCells;) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 69.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-int points;) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 84.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-int lastPointScored;) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -860.00 -550.00 cm
+1.0000 0.0000 0.0000 1.0000 860.00 650.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 22.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+Fort\(char name, boolean isDestroyed, ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 37.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(int undamagedCells, int points, int lastPointScored\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 52.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getName\(\): char ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 67.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+isDestroyed\(\): boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 82.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getUndamagedCells\(\): int ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 97.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getPoints\(\): int ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 112.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getLastPointScored\(\): int) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 127.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setLastPointScored\(int lastPointScored\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 142.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setName\(char name\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 157.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setDestroyed\(boolean destroyed\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 172.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setUndamagedCells\(int undamagedCells\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 187.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setPoints\(int points\): void) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -860.00 -650.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+.71373 .90588 .98039 rg
+.71373 .90588 .98039 RG
+50.000 560.00 m
+350.00 560.00 l
+350.00 820.00 l
+50.000 820.00 l
+50.000 560.00 l
+h
+f
+/Alpha1 gs
+.43137 .81176 .96471 rg
+.43137 .81176 .96471 RG
+50.000 560.00 m
+350.00 560.00 l
+350.00 820.00 l
+50.000 820.00 l
+50.000 560.00 l
+h
+S
+50.500 600.50 m
+350.50 600.50 l
+S
+50.500 680.50 m
+350.50 680.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 50.000 560.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 146.00 24.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Cell) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -50.000 -560.00 cm
+1.0000 0.0000 0.0000 1.0000 50.000 600.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 29.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-String position;) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 44.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-char value;) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 59.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-char fortName;) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -50.000 -600.00 cm
+1.0000 0.0000 0.0000 1.0000 50.000 680.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 29.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+Cell\(String position, char value, char fortName\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 44.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getPosition\(\): String ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 59.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getValue\(\): char) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 74.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getFortName\(\): char ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 89.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setPoition\(String position\): void ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 104.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setValue\(char value\): void ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 119.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setCellFortName\(char fortName\): void ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -50.000 -680.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+.76471 .89020 .74902 rg
+.76471 .89020 .74902 RG
+530.00 0.0000 m
+590.00 0.0000 l
+590.00 40.000 l
+530.00 40.000 l
+530.00 0.0000 l
+h
+f
+530.00 40.000 m
+630.00 40.000 l
+630.00 120.00 l
+530.00 120.00 l
+530.00 40.000 l
+h
+f
+/Alpha1 gs
+.56863 .79608 .54118 rg
+.56863 .79608 .54118 RG
+530.00 0.0000 m
+590.00 0.0000 l
+590.00 40.000 l
+530.00 40.000 l
+530.00 0.0000 l
+h
+S
+530.00 40.000 m
+630.00 40.000 l
+630.00 120.00 l
+530.00 120.00 l
+530.00 40.000 l
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 530.00 0.0000 cm
+q
+1.0000 0.0000 0.0000 -1.0000 31.000 24.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(UI) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -530.00 -0.0000 cm
+1.0000 0.0000 0.0000 1.0000 530.00 40.000 cm
+q
+1.0000 0.0000 0.0000 -1.0000 17.000 44.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(TextUI.java) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -530.00 -40.000 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+.71373 .90588 .98039 rg
+.71373 .90588 .98039 RG
+340.00 0.0000 m
+400.00 0.0000 l
+400.00 40.000 l
+340.00 40.000 l
+340.00 0.0000 l
+h
+f
+340.00 40.000 m
+460.00 40.000 l
+460.00 120.00 l
+340.00 120.00 l
+340.00 40.000 l
+h
+f
+/Alpha1 gs
+.43137 .81176 .96471 rg
+.43137 .81176 .96471 RG
+340.00 0.0000 m
+400.00 0.0000 l
+400.00 40.000 l
+340.00 40.000 l
+340.00 0.0000 l
+h
+S
+340.00 40.000 m
+460.00 40.000 l
+460.00 120.00 l
+340.00 120.00 l
+340.00 40.000 l
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 340.00 0.0000 cm
+q
+1.0000 0.0000 0.0000 -1.0000 19.000 24.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Model) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -340.00 -0.0000 cm
+1.0000 0.0000 0.0000 1.0000 340.00 40.000 cm
+q
+1.0000 0.0000 0.0000 -1.0000 35.000 22.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(Cell.java) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 35.000 37.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(Fort.java) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 4.0000 52.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(BoardManager.java) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 4.0000 67.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(GameManager.java) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -340.00 -40.000 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+200.00 560.00 m
+200.00 460.00 l
+920.00 460.00 l
+920.00 360.00 l
+920.00 310.00 l
+S
+S
+200.00 560.00 m
+205.00 551.34 l
+200.00 542.68 l
+195.00 551.34 l
+h
+f
+200.00 560.00 m
+205.00 551.34 l
+200.00 542.68 l
+195.00 551.34 l
+h
+S
+[ 3.0000 3.0000] 0.0000 d
+1010.0 510.00 m
+1010.0 310.00 l
+S
+[] 0.0000 d
+S
+1015.0 501.34 m
+1010.0 510.00 l
+1005.0 501.34 l
+1010.0 510.00 l
+1015.0 501.34 l
+h
+S
+[ 3.0000 3.0000] 0.0000 d
+643.33 520.00 m
+643.33 415.00 l
+835.00 415.00 l
+835.00 310.00 l
+S
+[] 0.0000 d
+S
+648.33 511.34 m
+643.33 520.00 l
+638.33 511.34 l
+643.33 520.00 l
+648.33 511.34 l
+h
+S
+350.00 690.00 m
+390.00 690.00 l
+S
+S
+350.00 690.00 m
+358.66 695.00 l
+367.32 690.00 l
+358.66 685.00 l
+h
+f
+350.00 690.00 m
+358.66 695.00 l
+367.32 690.00 l
+358.66 685.00 l
+h
+S
+860.00 680.00 m
+770.00 680.00 l
+S
+S
+860.00 680.00 m
+851.34 675.00 l
+842.68 680.00 l
+851.34 685.00 l
+h
+f
+860.00 680.00 m
+851.34 675.00 l
+842.68 680.00 l
+851.34 685.00 l
+h
+S
+[ 3.0000 3.0000] 0.0000 d
+270.00 270.00 m
+270.00 235.00 l
+220.00 235.00 l
+220.00 200.00 l
+S
+[] 0.0000 d
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+270.00 270.00 m
+275.00 261.34 l
+265.00 261.34 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+270.00 270.00 m
+275.00 261.34 l
+265.00 261.34 l
+h
+S
+[ 3.0000 3.0000] 0.0000 d
+516.67 520.00 m
+516.67 475.00 l
+270.00 475.00 l
+270.00 430.00 l
+S
+[] 0.0000 d
+S
+521.67 511.34 m
+516.67 520.00 l
+511.67 511.34 l
+516.67 520.00 l
+521.67 511.34 l
+h
+S
+[ 3.0000 3.0000] 0.0000 d
+750.00 230.00 m
+640.00 230.00 l
+640.00 350.00 l
+530.00 350.00 l
+S
+[] 0.0000 d
+S
+741.34 225.00 m
+750.00 230.00 l
+741.34 235.00 l
+750.00 230.00 l
+741.34 225.00 l
+h
+S
+Q
+Q
+
+endstream
+endobj
+
+8 0 obj
+   17142
+endobj
+
+9 0 obj
+   << 
+      /Type /Font
+      /Subtype /Type1
+      /Name /F1
+      /BaseFont /Helvetica-Bold
+      /Encoding 10 0 R
+   >>
+endobj
+
+11 0 obj
+   << 
+      /Type /Font
+      /Subtype /Type1
+      /Name /F2
+      /BaseFont /Helvetica
+      /Encoding 10 0 R
+   >>
+endobj
+
+10 0 obj
+   << 
+      /Type /Encoding
+      /Differences [0 /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quotesingle /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash /zero /one /two /three /four /five /six /seven /eight /nine /colon /semicolon /less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright /asciitilde /.notdef /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron /.notdef /Euro /exclamdown /cent /sterling /currency /yen /brokenbar /section /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
+   >>
+endobj
+
+3 0 obj
+   << 
+      /Parent null
+      /Type /Pages
+      /MediaBox [0.0000 0.0000 1150.0 850.00]
+      /Resources 12 0 R
+      /Kids [6 0 R]
+      /Count 1
+   >>
+endobj
+
+13 0 obj
+   [/PDF /Text /ImageC]
+endobj
+
+14 0 obj
+   << 
+      /F1 9 0 R
+      /F2 11 0 R
+   >>
+endobj
+
+15 0 obj
+   << 
+      /Alpha1
+      << 
+         /ca 1.0000
+         /CA 1.0000
+         /BM /Normal
+         /AIS false
+      >>
+   >>
+endobj
+
+12 0 obj
+   << 
+      /ProcSet 13 0 R
+      /Font 14 0 R
+      /ExtGState 15 0 R
+   >>
+endobj
+
+4 0 obj
+   << 
+      /Type /Outlines
+      /First 16 0 R
+      /Last 16 0 R
+   >>
+endobj
+
+16 0 obj
+   << 
+      /Parent 4 0 R
+      /Title (Page 1 \(untitled\))
+      /Prev null
+      /Next null
+      /Dest [6 0 R /Fit]
+   >>
+endobj
+
+xref
+0 17
+0000000000 65535 f
+0000000016 00000 n
+0000000356 00000 n
+0000020355 00000 n
+0000020870 00000 n
+0000000538 00000 n
+0000000615 00000 n
+0000000704 00000 n
+0000017913 00000 n
+0000017938 00000 n
+0000018214 00000 n
+0000018078 00000 n
+0000020775 00000 n
+0000020527 00000 n
+0000020568 00000 n
+0000020631 00000 n
+0000020960 00000 n
+
+trailer
+<< 
+   /Size 16
+   /Root 2 0 R
+   /Info 1 0 R
+>>
+
+startxref
+21104
+
+%%EOF
